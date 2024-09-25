@@ -7,7 +7,7 @@ advisor: Cesare Tinelli
 interests: Automated theorem proving
 email: mudathir-mahgoubyahia@uiowa.edu
 website: https://homepage.cs.uiowa.edu/~mahgoubyahia/
-photo:
+photo: mudathir.jpg
 layout: member
 subpath:
 ---
