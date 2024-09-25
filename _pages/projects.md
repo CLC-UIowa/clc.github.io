@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: Projects
 description: Funded Projects & Grants.
-nav: true
+nav: false
 nav_order: 1
 ---
 

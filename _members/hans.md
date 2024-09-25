@@ -3,9 +3,9 @@ name: Hans-Jörg Schurr
 pronouns: he/him
 role: Research Scientist
 subrole: Postdoctoral scholar
-interests: addme
-email: addme
-website: addme
+interests: 
+email: 
+website: 
 photo: 
 layout: member
 subpath: '/assets/img/'
