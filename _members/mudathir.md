@@ -1,14 +1,14 @@
 ---
 name: Mudathir Mohamed
-pronouns: 
+pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
-interests: addme
-email: addme
-website: addme
-photo: 
+interests: 
+email: mudathir-mahgoubyahia@uiowa.edu
+website: https://homepage.cs.uiowa.edu/~mahgoubyahia/
+photo:
 layout: member
-subpath: '/assets/img/'
+subpath:
 ---
 <!-- Write anything else here and it will be printed. -->
