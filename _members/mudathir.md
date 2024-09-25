@@ -4,7 +4,7 @@ pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
-interests: 
+interests: Automated theorem proving
 email: mudathir-mahgoubyahia@uiowa.edu
 website: https://homepage.cs.uiowa.edu/~mahgoubyahia/
 photo:
