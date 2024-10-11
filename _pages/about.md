@@ -5,7 +5,7 @@ permalink: /
 profile:
   align: right
   image: mlh.jpg
-  image_circular: true
+  image_circular: false
   address: >
     <p> Computational Logic Center</p>
     <p>The University of Iowa</p>

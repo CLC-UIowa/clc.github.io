@@ -4,7 +4,7 @@ pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: J. Garrett Morris
-interests: Row type theories
+interests: Programming Languages, Type Theory
 email: ahubers@uiowa.edu
 website: https://ahubers.github.io
 photo: alex.jpg

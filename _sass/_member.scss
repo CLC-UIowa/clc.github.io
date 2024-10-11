@@ -6,7 +6,8 @@
     border-radius: 50%;
     height: 100px;
     margin-right: $sp-4;
-    width: auto;
+    width: 100px;
+    object-fit: cover;
   }
 
   .anchor-heading {
