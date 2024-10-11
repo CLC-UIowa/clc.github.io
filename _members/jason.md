@@ -4,7 +4,7 @@ pronouns:
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: J. Garrett Morris
-interests: Type Theory
+interests: Programming Languages, Type Theory, Epistemology
 email: jason-veenendaal@uiowa.edu
 website:
 photo: jason.jpg
