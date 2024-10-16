@@ -1,13 +1,13 @@
 ---
 name: Shweta Rajiv
-pronouns: 
+pronouns: she/her
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
-interests:
-email:
+interests: Interactive Theorem Proving, Automated Reasoning, Formal Verification
+email: shweta-rajiv@uiowa.edu
 website:
-photo: 
+photo: shweta.jpg
 layout: member
 subpath: '/assets/img/'
 ---
