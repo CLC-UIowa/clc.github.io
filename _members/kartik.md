@@ -1,13 +1,13 @@
 ---
-name: Kartik Sabharbal
-pronouns: 
+name: Kartik Sabharwal
+pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
-interests:
-email:
-website:
-photo: 
+interests: Automated theorem proving, especially automated induction, and programming languages
+email: kartik-sabharwal@uiowa.edu
+website: https://fyrbll.github.io
+photo: kartik.jpg
 layout: member
 subpath: '/assets/img/'
 ---
